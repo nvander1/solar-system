@@ -35,3 +35,5 @@ spaced planets and logarithmically(ish) scaled objects!
 - d: move counterclockwise
 - -: zoom out
 - =: zoom in
+
+## Version 1.0
